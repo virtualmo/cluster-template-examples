@@ -78,7 +78,7 @@ nodepools:
   privateNetworking: false
 
   # Digital Ocean region
-  region: sfo3
+  region: fra1
 
   # Digital Ocean size
   size: s-4vcpu-8gb
